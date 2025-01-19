@@ -1,0 +1,40 @@
+[18-Jan-2025 15:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php:231
+Stack trace:
+#0 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\naimur\Local Sites\fuzion\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 231
+[18-Jan-2025 15:42:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php:231
+Stack trace:
+#0 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\naimur\Local Sites\fuzion\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 231
+[18-Jan-2025 16:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php:231
+Stack trace:
+#0 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\naimur\Local Sites\fuzion\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 231
+[18-Jan-2025 16:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php:231
+Stack trace:
+#0 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\naimur\Local Sites\fuzion\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 231
+[18-Jan-2025 16:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php:231
+Stack trace:
+#0 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\naimur\Local Sites\fuzion\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\naimur\Local Sites\fuzion\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\naimur\Local Sites\fuzion\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 231
